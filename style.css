@@ -1,0 +1,26 @@
+body{
+
+    width: 500px;
+    height: 500px;
+    background-color: rgb(35, 36, 37);
+    
+    display: flex;
+    justify-content: center;
+
+}
+
+/* #image-container {
+    border-radius: 60px;
+
+} */
+
+/* p {
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    color: blue;
+    border-radius: 6px;
+    border: 1px solid lightblue;
+    padding: 10px;
+} */
+
